@@ -1,0 +1,7 @@
+curve:curve,slurve,slow_curve,knuckle_curve,drop_curve,drop
+fork:knuckle,fork,split,changeup,circle_change,palm,v_slider
+slider:cutter,slider,h_slider
+shoot:shoot,h_shoot
+sinker:h_sinker,screw,sinker
+straight:two_seam,moving
+original:original

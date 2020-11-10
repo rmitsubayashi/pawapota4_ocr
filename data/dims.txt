@@ -1,0 +1,20 @@
+# where on the screen elements are relative to a point (the left button)
+# name, top left w, top left h, bottom right w, bottom right h
+name,-0.44,1.8,2.35,1.7
+max_velocity,4.4,3.3,1,1.3
+stamina,7.2,4.7,1,1.3
+control,5.8,4.7,1,1.3
+pitches,8.5,1.2,6,6.4
+arm,1.9,5.2,0.8,1.2
+fork,11.45,4.85,11.45,7.35
+curve,12.1,4.7,12.85,6.6
+sinker,10.8,4.7,10,6.6
+slider,12.3,3.8,13.5,3.8
+shoot,10.6,3.8,9.4,3.8
+trajectory,4.5,4.7,0.5,1.3
+contact,5.8,4.7,1.0,1.3
+power,7.1,4.7,1.3,1.3
+legs,8.6,4.7,1.0,1.3
+arm_strength,10,4.7,1.0,1.3
+fielding,11.4,4.7,1.0,1.3
+error_resistance,13.3,4.8,1.0,1.3
